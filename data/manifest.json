@@ -1,0 +1,26 @@
+{
+  "breast_cancer.csv": {
+    "bytes": 121385,
+    "sha256": "349e0b6355d9acc2cc25d910999fb906288861f9fb19af75718fb8c444df036c"
+  },
+  "california.csv": {
+    "bytes": 298672,
+    "sha256": "7ecef6df45564025787028d54fc33f84b04f486f59045899118a3a8388d7b941"
+  },
+  "heart.csv": {
+    "bytes": 11281,
+    "sha256": "ace0f6aa1bd7a53f995132d7a22bec07741a0d2f1d0053da49082d38c8cc0ac0"
+  },
+  "messy_health.csv": {
+    "bytes": 4290,
+    "sha256": "18a85a98843f690bf52f093ba8ebb3579048144700ec606dddbf7d9d11fc485c"
+  },
+  "pima.csv": {
+    "bytes": 23275,
+    "sha256": "99fed4ac44e2d602f6e88f634c195e7b91e05f9c1772e84476f8bbc7db4bdbcb"
+  },
+  "titanic.csv": {
+    "bytes": 10909,
+    "sha256": "63eb0ad32c0fcef6a89a6b1d211a8cd47e7647ac86e17aab5218f0e5272f7727"
+  }
+}
